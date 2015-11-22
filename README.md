@@ -1,11 +1,12 @@
 # contrastream
 
--------------------------------------------------
+**Name**:   contrastream
 
-Name:   contrastream
-About:  Next-gen static site generator
-Author: Dan McGrady <dan@dmix.ca>
-Repo:   https://github.com/dmix/contrastream
+**About**:  Next-gen static site generator
+
+**Author**: Dan McGrady <dan@dmix.ca>
+
+**Repo**:   https://github.com/dmix/contrastream
 
 -------------------------------------------------
 
