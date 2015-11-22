@@ -1,0 +1,6 @@
+TODO
+*.swp
+*.log
+node_modules
+.tmp
+build

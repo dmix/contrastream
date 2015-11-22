@@ -1,0 +1,22 @@
+{
+    "extends": "airbnb/base",
+    "globals": {
+        "__DEV__": true
+    },
+    "parser": "babel-eslint",
+    "rules": {
+        "id-length": [2, {"min": 2, "max": 10, "properties": "never", "exceptions": ["x", "λ"]}],
+        "indent": [2, 4],
+        "comma-dangle": 0,
+        "semi": [2, "never"],
+        "strict": 0,
+        "babel/generator-star-spacing": 1,
+        "babel/new-cap": 1,
+        "babel/object-curly-spacing": 1,
+        "babel/object-shorthand": 1,
+        "babel/arrow-parens": 1
+    },
+    "plugins": [
+        "babel"
+    ]
+}
